@@ -93,6 +93,12 @@ button, a.search-button {
   text-decoration: none;
 }
 
+.buttons_right {
+  width: 10%;
+  display: flex;
+  justify-content: space-between;
+}
+
 button, a.fcc-btn {
   background-color: white;
   color: black;
